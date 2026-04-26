@@ -2,7 +2,7 @@ Hey 👋 I'm Mamdouh
 Software Engineer | Web Developer | Problem Solver
 ## 🌐 Connect with me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mamdouh-omar-b0ab363a9?utm_source=share_via&utm_content=profile&utm_medium=member_ios)[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mamdouh_alksas)[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mamdouhomar590@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mamdouh-omar-b0ab363a9?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![Instagram](https://skillicons.dev/icons?i=instagram)] (https://instagram.com/mamdouh_alksas)[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mamdouhomar590@gmail.com)
 
 ## 👨‍💻 About Me
 
