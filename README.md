@@ -1,4 +1,5 @@
 Hey 👋 I'm Mamdouh
+<br>
 Software Engineer | Web Developer | Problem Solver
 ## 🌐 Connect with me
 
@@ -6,7 +7,7 @@ Software Engineer | Web Developer | Problem Solver
 
 ## 👨‍💻 About Me
 
-Hey there! 👋 I'm a second-year Computer Science student passionate about **Web Development** 🌐
+👋 I'm a second-year Computer Science student passionate about **Web Development** 🌐
 
 💡 I enjoy building modern, responsive websites and turning ideas into real, interactive experiences.
 
